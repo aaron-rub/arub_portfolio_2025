@@ -5,7 +5,7 @@ github_username: aaron-rub
 github_repo: "arub_portfolio_2025" 
 baseurl: "/arub_portfolio_2025"
 future: true
-remote_theme: jekyll/minima
+remote_theme: jekyll/cayman
 minima:
   skin: dark
   social_links:
